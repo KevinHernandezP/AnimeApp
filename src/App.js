@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hice cambio en la app
+          wanda
         </a>
       </header>
     </div>
