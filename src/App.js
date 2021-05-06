@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import { Button } from 'react-bootstrap';
-
+import Toolbar from './Toolbar/Toolbar';
 
 function App() {
   return (
     <div className="App">
-        <Button variant="warning">Warning</Button>{' '}
+      <Toolbar></Toolbar>
 
      
     </div>
