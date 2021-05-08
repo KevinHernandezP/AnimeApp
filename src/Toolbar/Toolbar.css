@@ -1,5 +1,5 @@
 .dark{
-    background-color: #ac0542;
+    background-color: #C4215A;
 }
 .texto:hover{
     color: #136fc0 !important;
@@ -7,4 +7,9 @@
 }
 .texto{
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+
+}
+.logo{
+    font-size: 2rem !important;
 }

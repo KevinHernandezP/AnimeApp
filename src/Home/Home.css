@@ -1,18 +1,11 @@
 .imagen{
-    width: 45%;
-    position: absolute;
-    margin: auto;
-    top: 0;
-    right: 45rem;
-    bottom: 20%;
-    left: 0;
-    border-radius: 1rem;
+    border-radius: 10px;
   
 }
 
 .mover{
     text-align: left;
-    margin-left: %;
+    margin-left: 20px;
 
 
     
